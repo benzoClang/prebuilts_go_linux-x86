@@ -11,7 +11,6 @@ var cgoEnabled = map[string]bool{
 	"android/arm": true,
 	"android/arm64": true,
 	"darwin/amd64": true,
-	"darwin/arm": true,
 	"darwin/arm64": true,
 	"dragonfly/amd64": true,
 	"freebsd/386": true,
